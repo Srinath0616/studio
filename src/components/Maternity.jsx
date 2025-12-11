@@ -14,13 +14,13 @@ const Maternity = () => {
         <div className="firstImage">
           <img src={HomeImage} alt="Creative" />
           <div className="heroText">
-            <h1>Saree Ceremony Moments, Perfectly Captured</h1>
+            <h1>Embracing the Beauty of Motherhood</h1>
             <p>
-              From the first drape to every heartfelt smile — we preserve your
-              tradition with elegance and stunning photography.
+              Every heartbeat, every glow — we capture the magic of life before
+              it begins.
             </p>
             <a href="/contact-us" className="contact-btn">
-              Book Your Saree Ceremony Shoot
+              Book Your Maternity Shoot
             </a>
           </div>
         </div>
